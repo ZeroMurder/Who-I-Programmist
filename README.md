@@ -3,7 +3,7 @@
 ​
 
 Мои ключевые навыки
-Языки: Python (middle+), C++/C#, Rust, Go, Ruby, PHP, Assembly(Fasm) - (x86x64), Lua, HTML/CSS (JS в процессе).
+Языки: Python (middle+), C/C++, C#, Rust, Go, Ruby, PHP, Assembly(Fasm) - (x86x64), Lua, HTML/CSS (JS в процессе).
 
 Реверс/security: x64dbg, IDA Pro, CFF Explorer, Resource Hacker, Cheat Engine, Wireshark, Nmap, Kali Linux/Tails/Anonymous OS.
 
