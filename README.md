@@ -3,7 +3,7 @@
 ​
 
 Мои ключевые навыки
-Языки: Python (middle+), C++/C#, Rust, Go, Ruby, PHP, Assembly (x86), Lua, HTML/CSS (JS в процессе).
+Языки: Python (middle+), C++/C#, Rust, Go, Ruby, PHP, Assembly(Fasm) - (x86x64), Lua, HTML/CSS (JS в процессе).
 
 Реверс/security: x64dbg, IDA Pro, CFF Explorer, Resource Hacker, Cheat Engine, Wireshark, Nmap, Kali Linux/Tails/Anonymous OS.
 
@@ -30,6 +30,9 @@ QA/data analytics
 "
 И да, я изучал сетевуху и киберуху и честно это все такая херня хахаахах, я лучше в даты аналитики пойду  там как то поспокойнее :) .
 "
+"
 изменяю этот контекст выше, я познал бэкенд и сетевые ресурсы и понял что мое лучшее напрввление это заниматся играми на си шарп, также я полюбил создание серверных частей и тд.
+"
+Изменяю контекст сверху, я пока что не знаю свое истинное нправление в It-технологиях :) . 
 Кому интересно будет мой TG - гляньте #https://t.me/devcooder 
 и другой #https://t.me/LordProjects . 
