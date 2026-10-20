@@ -15,15 +15,13 @@ AI/ML: Локальные модели Ollama (анализ/правка мил�
 Инструменты: VSCode/PyCharm/Visual Studio/RadASM/Sublime/Notepad++, Unity (C# игры/читы), SQL-базы.
 
 Мои проекты 
-LegalHackSuite (10+ инструментов): Fortron (отладчик с ИИ), Rezik (инжектор), Xholidium (hex/asm монитор), OSC Fronnten (декомпилятор), MemForge, NetHackr, AI Reverser на TensorFlow.
+1 - deleted--hexmonster, 2 - Injectformemory (инжектор), 3 - deleted-- aggresive injector, 4 -  Xcold (hex)
 ​
 
 GitHub ZeroMurder: свой язык программирования, чат-боты, мессенджеры, читы, хакерские утилиты, минимальные антивирусы, бизнес-программы, LOIC/HoIC-подобное.
 
 Другое: GUI-боты, парсеры, мини-ОС для VirtualBox, скрипты для CS:GO/TF2, fine-tuning LLM (LoRA/unsloth).
 
-Карьерный статус (январь 2026)
-QA/data analytics
 
 Честно с использованием ии ботов делаю и некоторые инструцменты, и читы в законных целях без взлома релаьного это все фальш,
 я где то на уровне junior-middle, по моему мнению. 
